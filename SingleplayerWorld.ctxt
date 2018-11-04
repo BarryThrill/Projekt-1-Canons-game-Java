@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SingleplayerWorld()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=position
+comment2.target=void\ paint(int)
+comment3.params=
+comment3.target=void\ spawnAtRandom()
+comment4.params=
+comment4.target=void\ spawnAmmo()
+comment5.params=
+comment5.target=void\ scoreCounter()
+comment6.params=
+comment6.target=void\ addScore()
+numComments=7

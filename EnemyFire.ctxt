@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=dir
+comment0.target=EnemyFire(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ Remove()
+comment3.params=
+comment3.target=void\ checkCollision()
+numComments=4
